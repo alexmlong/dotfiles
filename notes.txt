@@ -1,3 +1,10 @@
+# Setup
+
+Install vundle
+Install zsh and ohmyzsh
+Install YouCompleteMe (which has a bunch of prereqs)
+
+
 you should install:
     homebrew (mac only)
     trash-cli
@@ -6,3 +13,7 @@ you should install:
 
 run "npm install" in tern bundle dir
 run "npm install -g git+https://github.com/ramitos/jsctags.git"
+
+### On Linux
+
+* sudo apt install linuxbrew-wrapper
