@@ -3,7 +3,7 @@
 Install vundle
 Install zsh and ohmyzsh
 Install YouCompleteMe (which has a bunch of prereqs)
-
+sudo apt install silversearcher-ag
 
 you should install:
     homebrew (mac only)
