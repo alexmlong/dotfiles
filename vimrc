@@ -9,7 +9,7 @@ map <ScrollWheelDown> <C-E><C-E><C-E><C-E>
 filetype off
 
 set shell=bash
-set rtp+=~/.vim/bundle/vundle
+set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#rc()
 
 Plugin 'ternjs/tern_for_vim'
