@@ -1,6 +1,3 @@
-if [ -f `brew --prefix`/etc/bash_completion ]; then
-    . `brew --prefix`/etc/bash_completion
-fi
 export PATH=/usr/local/mysql/bin:$PATH
 export CLICOLOR=1
 stty -ixon
